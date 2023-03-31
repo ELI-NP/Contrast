@@ -5,4 +5,6 @@ The measured (solid line) temporal contrast of the 100 TW laser pulse at ELI-NP.
 
 ![Contrast](Contrast_100TW.png)
 
-This data is provided for the purposes of hydrodynamic simulation.
+This data is provided for the purposes of hydrodynamic simulation. 
+
+Data provided with permission from the LSD team at ELI-NP.
